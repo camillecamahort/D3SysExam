@@ -1,9 +1,0 @@
-/Users/a00979435//Desktop/MyGit/D3SysExam/commands/bottom.txt
-/Users/a00979435//Desktop/MyGit/D3SysExam/commands/desktopls.txt
-/Users/a00979435//Desktop/MyGit/D3SysExam/commands/find.txt
-/Users/a00979435//Desktop/MyGit/D3SysExam/commands/img.txt
-/Users/a00979435//Desktop/MyGit/D3SysExam/commands/top.txt
-/Users/a00979435//htdocs/commands/desktopls.txt
-/Users/a00979435//htdocs/commands/img.txt
-/Users/a00979435//Library/Application Support/Google/Chrome/Default/Service Worker/CacheStorage/783e7ccd1569e6f0af8b16953519e77950ae84e4/index.txt
-/Users/a00979435//Library/Logs/CoreTelephonyTraceScratch/CSI.scratch/0x00000000-csi.txt
